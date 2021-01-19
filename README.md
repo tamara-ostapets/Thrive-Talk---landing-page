@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+##Thrive Talk
+### landing page
+
+- [DEMO LINK](https://tamara-ostapets.github.io/Thrive-Talk---landing-page/)
+
+Responsive markup layout made by using CSS Grid and Flexbox.
+Adaptation for mobile, tablet, laptop, and high-resolution screens.
+Stack of tech: BEM, HTML5, SASS/SCSS.
+
