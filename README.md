@@ -1,4 +1,4 @@
-##Thrive Talk
+## Thrive Talk
 ### landing page
 
 - [DEMO LINK](https://tamara-ostapets.github.io/Thrive-Talk---landing-page/)
